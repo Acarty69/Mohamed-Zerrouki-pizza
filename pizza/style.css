@@ -1,0 +1,176 @@
+@font-face {
+    font-family: "rubik";
+    src: url(RubikMonoOne-Regular.woff);
+    font-style: normal;
+    font-weight: normal;
+}
+h1{
+
+    padding-bottom: 80px;
+}
+
+h2{
+    margin-top: 0;
+}
+
+nav{
+    
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+}
+nav ul li a{
+    
+    text-decoration: none;
+    font-size: 14px;
+    margin-top: 0;
+    color: white;
+    
+}
+nav ul li{
+    padding-top: 0;
+    display: inline-block;
+}
+ul{
+    background-color: #EEB41F;
+    float: right;
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.barrenav{
+}
+header{
+    padding: 0;
+    margin: 0;
+}
+
+#imgaccueil{
+    z-index: 0;
+    height: 1000px;
+   position: relative;
+   width: 100%;
+   margin-top: 0;
+   display: block;
+   margin-bottom: 0;
+    padding-bottom: 0;
+   
+}
+
+h1{
+    display: inline-block;
+    padding-left: 50px;
+    font-family: rubik;
+    font-size: 100px;
+    padding-bottom: 30px;
+    font-weight: 100;
+
+    
+    
+}
+#accueil{
+
+    color: white;
+    background-color: #EEB41F;
+    height: 300px;
+    position: absolute;
+    top: 400px;
+    width: 100%;
+    z-index: 2;
+}
+
+#accueilbutton{
+    font-family: mono;
+    position: relative;
+    bottom: 100px ;
+    padding: 10px;
+    background-color: #EEB41F;
+    font-size: 30px;
+    margin-left: 450px;
+    color: white;
+    text-align: center;
+    border-width: 2px;
+    border-color: white;
+}
+.padding{
+    padding-left: 50px;
+    padding-right: 20px;
+}
+#sousimage{
+    display: flex;
+    height: 500px;
+    background-color: #1E1E1E;
+}
+body{
+    padding: 0px;
+   margin: 0px;
+}
+
+#section1{
+    margin-top: 100px;
+   padding-left: 50px;
+    background-color: #EEB41F;
+    height: 300px;
+    width: 45%;
+    color: white;
+    text-align: center;
+    padding-left: 100px;
+    padding-right: 100px ;
+    font-family: quicksand;
+}
+#section2{
+    margin-top: 100px;
+    padding-left: 50px;
+    width: 45%;
+}
+#nouveaute{
+    padding-top: 40px;
+    font-family: mono;
+}
+.rogner{
+    padding-right: 0px;
+    margin-right: 0px;
+    width: 100%;
+    height: 300px;
+}
+#titre4{
+    display: flex;
+    padding-top: 300px;
+    padding-bottom: 100px;
+}
+
+#titre1{
+    padding-left: 350px;
+    
+}
+#titre2{
+    padding-left: 120px;
+    
+}
+#titre3{
+    padding-left: 120px;
+    
+    padding-right: 350px;
+}
+.titre
+{
+    font-family: mono;
+    color: #EEB41F;
+}
+#nospizza{
+    background-color: #1E1E1E;
+    height: 700px;
+}
+#pizza{
+    color: white;
+    font-family: mono;
+    font-size: 80px;
+    padding-left: 40px;
+}
+#images3{
+    display: flex;
+}
+.image3{
+    width: 400px;
+}
